@@ -3,4 +3,3 @@ tensorflow
 tensorflow-hub
 pillow
 numpy
-io
